@@ -8,6 +8,7 @@ public class Test {
 		Compte c2 = new CompteEpargne(01, 326,moi);
 		
 		moi.affiche();
+		//bonjour
 			
 
 	}
