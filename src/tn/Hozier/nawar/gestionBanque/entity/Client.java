@@ -24,7 +24,7 @@ public class Client {
 
 	public int getId() {
 		return id;
-	}
+	} 
 
 	public void affiche() {
 		for (Compte compte : comptesMap.values()) {
